@@ -1,0 +1,58 @@
+/*
+* Author: Elitepress Theme
+* Created by: Shahid (Scientech IT)
+* http://www.webriti.com/
+* Name: bittersweet.css
+*/
+  
+ 
+/* Menu Colors */
+.navbar .navbar-nav > .open > a, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus, 
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	color: #f36557 !important; 
+}
+
+.navbar .navbar-nav > .open > a, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a {	
+	border-top: 2px solid #f36557; 
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus { border-top: 1px solid #f36557; }
+
+/* Background Colors */
+.header-info, .flex-btn:after, .btn1, .section-title, .page-title-section, .service-area:hover .service-box, .project-btn:after, .view_all_project_button:hover, .pager a.selected, .client-pager a.selected, .project-btn:after, .detail-btn:after, .entry-date, .sidebar-widget-tags a:hover, .shortcode-btn-solid, .hc_scrollup, .tagcloud a:hover, .post-password-form input[type="submit"]:hover, .error_404 > p > a, #blogdetail-btn, #blogdetail-btn:hover, #blogdetail-btn:focus, 
+.contact-btn, .contact-btn:hover, .contact-btn:focus, .blog-seprator, .more-link:hover, .more-link:active, .widget table caption, ins, mark, 
+.team-area .team-social li:hover, .team-area .team-social li:focus, .paginations .page-numbers.current, .paginations a:hover, .paginations a:focus, 
+.reply a:hover, .flexslider .flex-next:hover, .flexslider .flex-prev:hover, 
+.wpcf7-form .wpcf7-submit, .wpcf7-form .wpcf7-submit:hover, .wpcf7-form .wpcf7-submit:focus {
+	background-color: #f36557;
+}
+
+/* Font Color */
+a, .site-logo h1, .site-logo h1 > a, .service-btn a:hover, .service-area h4 > a:hover, .features-area:hover h4 > a, .entry-header .entry-title > a:hover, .entry-meta a, .entry-meta a:hover, .entry-meta a:focus, .team-area h5, .port-more-link:hover, .static-client-area h3 > span, .post-content li > i, .post-content li:hover a, .contact-detail address > span > a:hover, .error_404 h4, .page-title a, .portfolio-tabs li.active > a, .portfolio-tabs li > a:hover, 
+.widget table #next a:hover, .widget table #prev a:hover, .widget table tbody a:hover, .widget table tbody a:focus,
+.site-logo h1, .site-logo h1 > a, .site-footer .widget ul > li > a:hover, .footer-menu-links li > a:hover, .archive-title, tbody a, p a, dl dd a, .contact-icon i, .author-name .designation, .site-footer .widget-title:after, .static-client-area  .designation:before, .portfolio-detail-info p small, .portfolio-detail-info p small a, .blog-tags a, .blog-blockquote blockquote > small, p.wp-caption-text a, .comment-date, .comment-date a, .blog-description p a { 
+	color: #f36557; 
+}
+
+/* Border Color */
+.site-footer { border-top: 7px solid #f36557; }
+.section-title:before { border-left-color: #f36557; }
+.portfolio-info:hover { border-bottom: 3px solid #f36557; }
+.project-btn, .pager a, .pager a.selected, .client-pager a, .client-pager a.selected, .view_all_project_button { border: 2px solid #f36557; }
+.service-area:hover .service-box, .detail-btn:active:after, .more-link:hover, .more-link:active, .reply a:hover { 
+	border: 1px solid #f36557; 
+}
+blockquote { border-left: 5px solid #f36557; }
+.header-section { border-bottom: 7px solid #f36557; }
+.team-area .team-social li:hover, 
+.team-area .team-social li:focus {
+	-moz-box-shadow: inset 0 0 3px #f36557;
+	-webkit-box-shadow: inset 0 0 3px #f36557;
+}
+.wpcf7-form .wpcf7-submit, .wpcf7-form .wpcf7-submit:hover, .wpcf7-form .wpcf7-submit:focus,
+.contact-btn, .contact-btn:hover, .contact-btn:focus, 
+#blogdetail-btn, #blogdetail-btn:hover, #blogdetail-btn:focus { 
+	box-shadow: 0 3px 0 0 rgb(199, 78, 75); 
+}

@@ -1,0 +1,77 @@
+#accordion-section-appointment_pro_section h3
+{background-color: #f5f5f5!important;
+color:#555 !important;
+font-size:14px !important;
+ }
+ 
+.upgrade {
+  background-color: #1d4467;
+  border-color: #1d4467;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+   margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+  text-decoration:none;
+}
+.review {
+  background-color: #82b541;
+  border-color: #1ec846;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+   margin-bottom: 0;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+  text-decoration:none;
+}
+.document{
+  background-color: #ee591f;
+  border-color: #ef9c28;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+  text-decoration:none;
+}
+.pro-box
+{display:block;text-align:center; margin-bottom: 0px;}
+.pro-vesrion 
+{text-align:center; margin-top:15px;}
+
+.service {
+  background-color: #31a3dd;
+  border-color: #ef9c28;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius: 2px;
+  }
+  .pro-vesrion p{line-height:20px;} 
+  
+ li#accordion-section-elitepress_pro_section h3.accordion-section-title { background-color:#31a3dd; color:#fff;}
+ #customize-control-elitepress_lite_options-webriti_stylesheet input[type="radio"] {display:none !important;}
+ #customize-control-elitepress_lite_options-webriti_stylesheet img{height:45px; 
+ width:120px !important;}
+  #customize-control-elitepress_lite_options-webriti_stylesheet label{display:inline-block; margin-left: 0px !important;}

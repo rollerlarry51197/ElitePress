@@ -1,0 +1,207 @@
+/*!
+ * Theme Menu Css created By Shahid - Scientech IT
+*/
+
+
+/* Menus css-------------------------------------------------------------- */ 
+.menu-section {
+	background: none repeat scroll 0 0 transparent;
+    border-bottom: 0 none;
+    border-top: 1px dashed #A8B5C1;	
+    min-height: 35px;
+    position: relative;
+    border-bottom: 0 none;
+    width: 100%;
+	padding: 0px;	
+}
+.container-fluid {
+    margin-left: auto;
+	margin-right: auto;
+    padding-left: 0px;
+	padding-right: 0px;
+	}
+.navbar-container{
+	margin-left: 0px;
+}
+.navbar {
+	border: 1px solid rgba(0, 0, 0, 0);
+    margin-bottom: 0px;
+    min-height: 35px;
+    position: relative;
+	border-radius: 0px;
+}
+.navbar .navbar-nav > .open > a, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus {
+	background-color: #ffffff;
+}
+.navbar-nav-active{
+width:100% !important;
+}
+.dropdown-submenu{
+    position:relative;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #697076;
+	border-top: 2px solid transparent;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background-color: #ffffff;
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+	background-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	background-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+	background-color: #31353a;
+	border: 1px solid #31353a;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #31353a;
+	border: 1px solid #31353a;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffffff;
+}
+/* .navbar-nav > li { */
+    /* border-right: 1px dashed #A8B5C1; */
+/* } */
+
+.dropdown-menu {
+	background-color: #ffffff;
+	border-left: 1px solid #e6e5e5;
+	border-right: 1px solid #e6e5e5;
+	border-bottom: 1px solid #e6e5e5;
+	border-top: 1px solid #e6e5e5;
+	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top:0;
+    left:100%;
+    margin-top:-6px;
+    margin-left:-1px;
+    -webkit-border-radius:0;
+    -moz-border-radius:0;
+    border-radius:0;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+    display:block;
+}
+.dropdown-submenu .pull-left {
+    float:none;
+}
+.dropdown-submenu.pull-left > .dropdown-menu {
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius:6px 0 6px 6px;
+    -moz-border-radius:6px 0 6px 6px;
+    border-radius:6px 0 6px 6px;
+}
+.dropdown-menu {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 1000;
+	display: none;
+	float: left;
+	min-width: 200px;
+	padding: 0px 0;
+	margin: 2px 0 0;
+	font-size: 14px;
+	list-style: none;
+	border-top: 0px;
+	border-radius: 0px;
+	background-clip: padding-box;
+}
+.dropdown-menu > li {
+	border-bottom: 1px dashed #A8B5C1;
+	padding: 0;
+}
+
+.dropdown-menu > li:first-child { padding: 0; }
+
+
+.dropdown-menu > li > a {
+	color: #697076;
+	/* border-bottom: 1px dashed #A8B5C1; */
+}
+.dropdown-menu > li > a:before { display: none; }
+.dropdown-menu > li > a {
+	font-family: 'Lato';
+	font-size: 15px;
+	letter-spacing: 1px;
+    clear: both;
+    display: block;
+    font-weight: 700;
+    line-height: 1.42857;
+    padding: 13px 20px !important;
+    white-space: nowrap;
+	transition: all 0.3s ease 0s;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+	text-decoration: none;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+	color: #2a2e34;
+	background-color: #f9f9f9;
+}
+.navbar-collapse {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.navbar-default .navbar-nav > li > a {
+	transition: all 0.3s ease 0s;
+}
+.navbar-default .navbar-toggle {
+	border-radius: 0px;
+}
+.navbar-nav { margin: -2px 0 0; width: 70%; }
+.navbar-nav > li { border-bottom: none; padding: 0; }
+.navbar-nav > li:first-child { padding: 0px; }
+.navbar-nav > li > a{
+	font-family: 'Lato';
+	font-size: 15px;
+	line-height: 20px;
+	letter-spacing: 1px;
+	padding: 15px 25px;
+	transition: all 0.3s ease 0s;
+	font-weight: 700;
+}
+.navbar-default .navbar-nav > li > a:before { display: none; }
+
+.navbar-nav  .dropdown-toggle > i {
+	font-size: 18px;
+	margin-left: 7px;
+}
+.dropdown-submenu > .dropdown-menu {
+    margin-top: 0px;  
+}
+
+/*Search Menu-------------------------------------------------------------------------*/
+.menu-box { float: right; }
+#top-menu-search { position: relative; right: 30px; top: 7px; }
+#top-menu-search input {
+	background: #f5f5f5 url("../images/search.png") no-repeat scroll 93% center;
+    border: medium none;
+    color: #697076;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 12px;
+    margin: 0;
+    outline: medium none;
+    padding: 8px 50px 8px 10px;
+    width: 200px;
+    height: auto;
+}

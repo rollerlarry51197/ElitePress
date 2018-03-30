@@ -1,0 +1,1217 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ElitePress\n"
+"POT-Creation-Date: 2017-12-14 11:39+0530\n"
+"PO-Revision-Date: 2017-12-14 11:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:14
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:15
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:17
+msgid "Daily Archive"
+msgstr ""
+
+#: archive.php:19
+msgid "Monthly Archive"
+msgstr ""
+
+#: archive.php:21
+msgid "Yearly Archive"
+msgstr ""
+
+#: archive.php:23
+msgid "Blog Archive"
+msgstr ""
+
+#: author.php:16
+#, php-format
+msgid "Author Archive %s"
+msgstr ""
+
+#: banner-header.php:46
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+#: functions/customizer-repeater/class/customizer-repeater-control.php:405
+#: functions/customizer/customizer-blog.php:21
+#: functions/customizer/customizer-homecallout.php:27
+#: functions/customizer/customizer-project.php:47
+#: functions/customizer/customizer-project.php:83
+#: functions/customizer/customizer-project.php:138
+#: functions/customizer/customizer-project.php:168
+#: functions/customizer/customizer-project.php:193
+#: functions/customizer/customizer-service.php:43
+#: functions/customizer/customizer_banner.php:34
+#: functions/customizer/customizer_banner.php:80
+#: functions/customizer/customizer_banner.php:126
+#: functions/customizer/customizer_banner.php:172
+#: functions/customizer/customizer_banner.php:218
+#: functions/customizer/customizer_banner.php:266
+#: functions/widget/elitepress_header_widget.php:85 theme_setup_data.php:131
+#: theme_setup_data.php:134 theme_setup_data.php:137 theme_setup_data.php:143
+#: theme_setup_data.php:146
+msgid "Title"
+msgstr ""
+
+#: category.php:16
+msgid "Category  Archive"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+msgid "Reply"
+msgstr ""
+
+#: comments.php:21
+msgid "Posted on"
+msgstr ""
+
+#: comments.php:23
+msgid "Edit"
+msgstr ""
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:41
+msgid "No comments so far"
+msgstr ""
+
+#: comments.php:41
+msgid "1 comment so far"
+msgstr ""
+
+#: comments.php:41
+msgid "comments so far"
+msgstr ""
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:66
+msgid "Name"
+msgstr ""
+
+#: comments.php:67
+msgid "Email"
+msgstr ""
+
+#: comments.php:76
+msgid "Message"
+msgstr ""
+
+#: comments.php:77
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:78
+msgid "Log out from this Account"
+msgstr ""
+
+#: comments.php:78
+msgid "Log out"
+msgstr ""
+
+#: comments.php:80
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:83
+msgid "Leave a Reply"
+msgstr ""
+
+#: content.php:20 fullwidth.php:13 functions.php:125 functions.php:142
+#: functions/customizer/customizer-homecallout.php:50 index-slider.php:100
+#: page.php:13 theme_setup_data.php:75
+msgid "Read More"
+msgstr ""
+
+#: content.php:21 fullwidth.php:14 page.php:14
+msgid "Page"
+msgstr ""
+
+#: functions.php:59
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Footer Menu"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:263
+#: functions/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:270
+#: functions/customizer-repeater/class/customizer-repeater-control.php:419
+#: functions/customizer/customizer-blog.php:34
+#: functions/customizer/customizer-homecallout.php:42
+#: functions/customizer/customizer-project.php:61
+#: functions/customizer/customizer-project.php:114
+#: functions/customizer/customizer-project.php:226
+#: functions/customizer/customizer-service.php:60
+#: functions/customizer/customizer_banner.php:53
+#: functions/customizer/customizer_banner.php:99
+#: functions/customizer/customizer_banner.php:145
+#: functions/customizer/customizer_banner.php:191
+#: functions/customizer/customizer_banner.php:237
+#: functions/customizer/customizer_banner.php:285
+#: functions/meta-box/post-meta.php:24
+#: functions/widget/elitepress_header_widget.php:91
+msgid "Description"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:279
+#: functions/customizer-repeater/class/customizer-repeater-control.php:427
+#: functions/customizer/customizer-homecallout.php:56
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:290
+#: functions/customizer-repeater/class/customizer-repeater-control.php:437
+#: functions/customizer-repeater/class/customizer-repeater-control.php:627
+#: functions/customizer-repeater/class/customizer-repeater-control.php:649
+msgid "Link"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:333
+#: functions/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:343
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+#: functions/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:367
+#: functions/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:523
+#: functions/customizer/customizer-homecallout.php:84
+#: functions/widget/elitepress_social_icon.php:200
+#: functions/widget/elitepress_social_icon.php:206
+#: functions/widget/elitepress_social_icon.php:212
+#: functions/widget/elitepress_social_icon.php:218
+#: functions/widget/elitepress_social_icon.php:224
+#: functions/widget/elitepress_social_icon.php:230
+#: functions/widget/elitepress_social_icon.php:236
+#: functions/widget/elitepress_social_icon.php:242
+#: functions/widget/elitepress_social_icon.php:248
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:534
+#: functions/customizer-repeater/class/customizer-repeater-control.php:603
+#: functions/widget/elitepress_header_widget.php:81
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:539
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:558
+#: functions/customizer-repeater/class/customizer-repeater-control.php:604
+#: functions/customizer/customizer-project.php:96
+#: functions/customizer/customizer-project.php:150
+#: functions/customizer/customizer-project.php:208
+msgid "Image"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:561
+msgid "Upload Image"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:570
+msgid "Slide Format"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Standard"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Aside"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Quote"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:586
+msgid "Status"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Video"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:600
+msgid "Image type"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:605
+msgid "None"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:613
+msgid "Social icons"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:630
+#: functions/customizer-repeater/class/customizer-repeater-control.php:660
+msgid "Remove Icon"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:635
+#: functions/customizer-repeater/class/customizer-repeater-control.php:668
+msgid "Add Icon"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:8
+msgid "Latest News Settings"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:15 theme_setup_data.php:127
+msgid "Latest news"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:81
+msgid "©2017 All Rights Reserved - Webriti. - Designed and Developed by"
+msgstr ""
+
+#. Author of the plugin/theme
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:81
+msgid "Webriti"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:50
+msgid "Enable Footer Menu Bar"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:8
+msgid "Header settings"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:14
+#: functions/customizer/customizer-home.php:26
+msgid "Site favicon"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:33
+msgid "Header logo settings"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:50
+msgid "Upload logo"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:69
+msgid "Show Logo text"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:90
+msgid "Enter Logo width"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:109
+msgid "Enter Logo Height"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:117
+#: functions/customizer/customizer-home.php:129
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:161
+msgid "Enable search bar on header"
+msgstr ""
+
+#: functions/customizer/customizer-homecallout.php:6
+#: functions/customizer/customizer-homecallout.php:12
+msgid "Home header callout setting"
+msgstr ""
+
+#: functions/customizer/customizer-homecallout.php:21 theme_setup_data.php:73
+msgid "Want to say hey or find out more?"
+msgstr ""
+
+#: functions/customizer/customizer-homecallout.php:70
+msgid "Button Link"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:13
+#: functions/customizer/customizer-pro.php:20
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:77
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better."
+msgstr ""
+
+#: functions/customizer/customizer-project.php:8
+#: functions/customizer/customizer-project.php:14
+msgid "Project settings"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:33
+msgid "Enable project section on home Page"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:41 theme_setup_data.php:89
+msgid "Latest projects"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:69
+msgid "Portfolio one"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:77 theme_setup_data.php:92
+msgid "Growing your business"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:125
+msgid "Portfolio two"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:132 theme_setup_data.php:96
+msgid "Functional elegance"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:178
+msgid "Portfolio three"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:187 theme_setup_data.php:100
+msgid "Planning your next move"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:235
+msgid "Add more portfolios"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:250
+msgid "Want to add projects and categorization?"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:253
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:6
+msgid "Service settings"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:25
+msgid "Enable Service section on front page"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:34 theme_setup_data.php:107
+msgid "Our services"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:73
+msgid "Service Content"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:76
+msgid "Add new Service"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:47
+#: functions/customizer/customizer-slider.php:53
+msgid "Slider settings"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:71
+msgid "Enable home banner"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:85
+msgid "Slider Content"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:88
+msgid "Add new slide"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:89
+msgid "Slide"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:113
+msgid "Animation speed"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:132
+msgid "Slideshow speed"
+msgstr ""
+
+#: functions/customizer/customizer.php:39
+#: functions/customizer/customizer.php:57
+msgid "ElitePress by webriti themes"
+msgstr ""
+
+#: functions/customizer/customizer.php:40
+#: functions/customizer/customizer.php:49
+#: functions/customizer/customizer.php:58
+msgid "With our themes, you can create a stunning website in no time."
+msgstr ""
+
+#: functions/customizer/customizer.php:48
+msgid "A clean and fresh design"
+msgstr ""
+
+#: functions/customizer/customizer.php:130 index-service.php:141
+#: theme_setup_data.php:111
+msgid "Responsive design"
+msgstr ""
+
+#: functions/customizer/customizer.php:137 index-service.php:141
+#: theme_setup_data.php:115
+msgid "Twitter Bootstrap 3.2.0"
+msgstr ""
+
+#: functions/customizer/customizer.php:144 index-service.php:141
+#: theme_setup_data.php:119
+msgid "Exclusive support"
+msgstr ""
+
+#: functions/customizer/customizer.php:152 index-service.php:141
+#: theme_setup_data.php:123
+msgid "Incredibly flexible"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:11
+msgid "Banner settings"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:16
+msgid "Category"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:25
+msgid "Category title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:62
+msgid "Archive"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:71
+msgid "Archive title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:108
+msgid "Author"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:117
+msgid "Author title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:154
+msgid "404"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:163 theme_setup_data.php:140
+msgid "404 title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:200
+msgid "Tag"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:209
+msgid "Tag title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:248 header-menu-section.php:35
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:257
+msgid "Search title"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:6
+msgid "Header widget section"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:19
+msgid "Select column layout"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:33
+msgid "Click here to add a header widget"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:11
+msgid "Theme Color"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:36
+msgid "Theme style setting"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:43
+msgid "wide"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:54
+msgid "Theme Layout"
+msgstr ""
+
+#: functions/elitepress-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr ""
+
+#: functions/elitepress-info/sections/actions-required.php:14
+msgid ""
+"To set up an exact replica of the Homepage as shown in our demo, you have to "
+"create a WordPress page using the Home Page Template. The Business Template "
+"has all the sections like banners, services, portfolio, etc., which are "
+"ideal for any business site. Kindly refer to the snapshot."
+msgstr ""
+
+#: functions/elitepress-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Display"
+msgstr ""
+
+#: functions/elitepress-info/sections/actions-required.php:22
+msgid ""
+"Do you want to show the Homepage as a Front Page? You need to set the "
+"Homepage as a static page, as shown in the snapshot below. Now go to the "
+"Customizer and start configuring the sections in the Business Template. We "
+"hope you will find this theme useful."
+msgstr ""
+
+#: functions/elitepress-info/sections/actions-required.php:30
+#: functions/elitepress-info/sections/actions-required.php:37
+msgid "ElitePress Blue Child Theme"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:13
+msgid "Features"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:23
+msgid "Page Templates Support"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:24
+msgid "The premium version, ElitePress PRO, includes various page templates"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:28
+msgid "Mobile Friendly"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:33
+msgid "Contact Form Support"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:37
+#: functions/elitepress-info/sections/github.php:16
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:38
+msgid ""
+"This feature allows you to rename the custom post type slug names in the URL."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:42
+#: functions/elitepress-info/sections/github.php:88
+msgid "Multiple Color Schemes"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:43
+msgid ""
+"Enjoy using the 13 preset color schemes. You can also create custom skins "
+"without adding any code."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:47
+msgid "Google Map"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:48
+msgid ""
+"Display your Shop and Business location on your website using Google Maps."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:53
+msgid "Portfolio"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:54
+msgid ""
+"Present your project/portfolio collection with a 2 column, 3 column or 4 "
+"column layout. You can also display your project/portfolio by category."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:58
+msgid "About Us Page"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:59
+msgid "Show the members of your team, your clients, or any custom content."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:63
+msgid "Services Page"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:64
+msgid "Show all your services in a single place."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:68
+msgid "Testimonial / Review Section"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:69
+msgid "Show user feedback on the Homepage and Services page."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:74
+msgid "WPML / Polylang Support"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:75
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:79
+msgid "Support Forum"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:80
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:91
+msgid "ElitePress Lite"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:95
+msgid ""
+"Header Widget, Slider with unlimited slides, Unlimited Services, Callout "
+"Section, Product section, Latest News"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:119
+msgid "ElitePress PRO"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:123
+msgid ""
+"Top header Widget, Header Widget, Slider with unlimited slides, Unlimited "
+"Services, Callout Section, Portfolio [Unlimited Portfolio], Latest News, "
+"Clients, Testimonials, Contact with map"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:125
+msgid ""
+"About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, "
+"Page Full Width, Contact Page and much more."
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:136
+msgid "Webriti Support Forum"
+msgstr ""
+
+#: functions/elitepress-info/sections/free_pro.php:147
+msgid "Get ElitePress PRO Now!"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:14
+msgid "About ElitePress"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:20
+msgid ""
+"ElitePress is a WordPress theme developed for corporate business. It "
+"provides a simple and elegant look. Thousands of users are loving it, as "
+"it's perfect for multiple businesses, like digital agencies, freelancers, "
+"bloggers, startups, portfolios, corporate or any other type of activity. The "
+"theme is developed using Bootstrap 3 CSS framework, making it friendly to "
+"all the devices (mobiles, tablets, laptops etc.). ElitePress Lite features "
+"sections like Header, Slider, CTA, Services, Portfolios and 3 column "
+"Widgetized Footer. You can also show your social and contact information in "
+"the header section, for a more effective web presence. Theme comes with two "
+"page templates one is homepage and the second is full-width page template."
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:22
+msgid ""
+"The premium version, ElitePress PRO, offers more enhancements and features. "
+"Like a boxed layout with background patterns, 7 predefined color schemes "
+"plus the opportunity to create your own color, an eye-catching Slider, a "
+"Layout Manager, and unlimited Services, Testimonials, Portfolios, Clients/"
+"Sponsors, Blog, and Latest News. You will also get many page templates: "
+"About, Service, Portfolio, Blog, and Contact Us. The theme supports popular "
+"plugins like WPML, Polylang and the JetPack Gallery Extensions. Just "
+"navigate to Appearance/Customize to start personalising your theme. You can "
+"see the premium version, ElitePress PRO at https://webriti.com/demo/wp/"
+"elitepress."
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:28
+msgid "Appointment Blue Child Theme"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:38
+msgid "Useful Links"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr ""
+
+#: functions/elitepress-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:11
+#: functions/elitepress-info/welcome-screen.php:208
+msgid "Why Upgrade to Pro?"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:17
+msgid ""
+"This feature helps you to rename the slug name from the URL, allowing you to "
+"make it SEO friendly."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:24
+msgid "Header Section"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:25
+msgid ""
+"In the premium version, ElitePress PRO, you get a top header sidebar area "
+"where you can use any widget. We have created a number of widgets in the "
+"theme which you can use here, and all are styled. Specifically, you can use "
+"the Header Widget to show your email address, contact number or any other "
+"info of your choice."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:34
+msgid ""
+"There are beautifully styled navigation/menus in ElitePress. You can create "
+"sub menus and make multi level menus."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:43
+msgid ""
+"You can create unlimited slides which you can control via Appearance > "
+"Customize."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:51
+msgid "Service Features"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:53
+msgid ""
+"You can display any number of Services on the Homepage, with thousands of "
+"FontAwesome icons available. You can also display a set of services on a "
+"separate page by using the service-related page templates."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:62
+msgid ""
+"Showcase any number of projects. This theme provides you with an option to "
+"create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column "
+"layout templates, respectively. If you have a number of projects to present "
+"then these templates are the answer. You can also create categorized "
+"portfolios, which display all the portfolio categories in a single place. In "
+"fact, we have coded this theme so that you can create any number of "
+"different portfolios."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:71
+msgid ""
+"This section is often used to display Latest News, Announcements and Events "
+"type content."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:79
+msgid ""
+"Testimonials are a powerful way to gain credibility. You can display "
+"testimonials with a carousel effect."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:89
+msgid ""
+"You will get 7 preset color schemes and you can even create your own "
+"favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:97
+msgid "Well Documented"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:98
+msgid ""
+"We provide good knowledgebase articles which will help you create effective "
+"websites. You can reach these articles via our <a href='http://webriti.com/"
+"help/category/themes/elitepress/' target='_blank'>Help Section</a>."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:106
+msgid "Custom widget"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:107
+msgid ""
+"Building a website with our custom widgets is very simple. Just place them "
+"inside the available sidebar or even in the content."
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr ""
+
+#: functions/elitepress-info/sections/github.php:117
+msgid ""
+"The theme supports yet another famous plugin: WPML. With the help of this "
+"support you can create a website available in multiple languages."
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:55
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing ElitePress Lite! To take full advantage of "
+"all of our theme's best features, please visit our %swelcome page%s."
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:56
+msgid "Get started with ElitePress Lite"
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:99
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:136
+msgid "View Theme Info"
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:206
+msgid "Getting Started"
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:207
+msgid "Actions Required"
+msgstr ""
+
+#: functions/elitepress-info/welcome-screen.php:209
+msgid "Free vs PRO"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:21
+msgid "Allow banners on the page"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:22
+msgid "Enter the banner's heading title"
+msgstr ""
+
+#: functions/template-tag.php:12
+msgid "By"
+msgstr ""
+
+#: functions/template-tag.php:17
+msgid "In"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:8 functions/widget/custom-sidebar.php:10
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:19
+#: functions/widget/custom-sidebar.php:21
+msgid "Top header left area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:30
+#: functions/widget/custom-sidebar.php:32
+msgid "Top header right area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:41
+#: functions/widget/custom-sidebar.php:43
+msgid "Top header widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:51
+#: functions/widget/custom-sidebar.php:53
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:13
+msgid "WBR: Header widget"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:16
+msgid "ElitePress header widget"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:83
+msgid "Get your Font Awesome"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:83
+msgid "here"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:13
+msgid "WBR: Social icon"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:16
+msgid "ElitePress social icons widget"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:197
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:203
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:209
+msgid "Google-Plus URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:215
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:221
+msgid "Instagram URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:227
+msgid "Youtube URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:233
+msgid "Skype URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:239
+msgid "Vimeo URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:245
+msgid "Dribble URL"
+msgstr ""
+
+#: index-slider.php:91
+msgid "Welcome to the ElitePress WordPress Theme"
+msgstr ""
+
+#: index-slider.php:91
+msgid "Boost your site today!"
+msgstr ""
+
+#: index-slider.php:91
+msgid "Let us help you make your website amazing!"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: search.php:32
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tag.php:15
+msgid "Tag Archive"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ElitePress"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/elitepress-wordpress-theme-lite/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com/"
+msgstr ""
